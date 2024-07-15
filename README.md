@@ -1,5 +1,5 @@
 # Pokemon_Team_Builder_Using_GNN
-A recommender system that makes use of graph neural networks to recommend a team of 6 pokemon based on type synergy and bundle recommendation. 
+A recommender system that recommends a team of 6 pokemon based on edge_weights. 
 
 # How to Run?
 * Run each block individually.
